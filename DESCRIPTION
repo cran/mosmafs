@@ -15,7 +15,7 @@ BugReports: https://github.com/compstat-lmu/mosmafs/issues
 License: MIT + file LICENSE
 Encoding: UTF-8
 ByteCompile: yes
-Version: 0.1.0
+Version: 0.1.1
 VignetteBuilder: knitr
 Depends: ecr (>= 2.1.0)
 Imports: BBmisc, checkmate (>= 1.9.0), ParamHelpers, MASS, smoof,
@@ -27,10 +27,10 @@ Collate: 'customnsga2.R' 'datagen.R' 'ecrshims.R' 'evalmosmafs.R'
         'filtermat.R' 'objective.R' 'utils.R' 'operators.R'
         'plotting.R' 'selectorcpo.R' 'terminators.R' 'zzz.R'
 NeedsCompilation: no
-Packaged: 2020-01-21 23:54:55 UTC; user
+Packaged: 2020-02-10 08:20:52 UTC; user
 Author: Martin Binder [aut, cre],
   Susanne Dandl [aut],
   Julia Moosbauer [aut]
 Maintainer: Martin Binder <developer.mb706@mb706.com>
 Repository: CRAN
-Date/Publication: 2020-01-22 11:20:06 UTC
+Date/Publication: 2020-02-19 09:10:02 UTC

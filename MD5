@@ -1,7 +1,7 @@
-c266692b3d26f0ceb9f32daf9eb6eded *DESCRIPTION
+e013f49af9e4605a9150d1a0583a6732 *DESCRIPTION
 2a01e9ead257d234f541e64b0a364094 *LICENSE
 a355c3a09b8e700b1cc311ec94037b57 *NAMESPACE
-364a9a6ac0e90298f0ebd1272af28347 *NEWS
+370e52c2115f8249a44180ed15001b5b *NEWS
 a0c16878c0a3b3115a71e3570465b581 *R/customnsga2.R
 39c9938b6dd8fbddb61b684f13f2a9c3 *R/datagen.R
 50ef1f4bc044b00ef735298f8f8a85d2 *R/ecrshims.R
@@ -15,13 +15,13 @@ d1a0ec7787d0aa2d955e47eb131b0f3e *R/filtermat.R
 6d4cf0d46626652894fb3ad8a0435211 *R/utils.R
 cacf8048a935fb83068856e83d91decc *R/zzz.R
 e25b41cf9b7daf5ca2a58fc8214e98e4 *README.md
-174e93d1c7428095466fc28c57ef246f *build/vignette.rds
+0aadcdcf91dc92b4f037a117d4de6403 *build/vignette.rds
 b446905009bafaa11849ef4cdedb61f7 *inst/doc/demo.R
 aa06d0f5e6c32eda8a937f8e9328de47 *inst/doc/demo.Rmd
-9b566791feaf42c26f357c16d06a1551 *inst/doc/demo.html
+84bb7dab091133d0505380a557650c2c *inst/doc/demo.html
 f3369c026210e5bd020e91d5d5ca64ca *inst/doc/multifidelity.R
 69bf09e2b248c5a6de89fc2b450a13c9 *inst/doc/multifidelity.Rmd
-f768ea27025a8cb1213d19f1159bd9b4 *inst/doc/multifidelity.html
+dda7286cc1418e45f29f1899babf2b38 *inst/doc/multifidelity.html
 729818f8a602e566c6b93a9b98b05ed5 *man/availableAttributes.Rd
 dcb65f9ee10a1717ac7755b2ef88718b *man/clonetask.Rd
 7190533141612019040d0b73e04a97fa *man/collectResult.Rd
@@ -79,7 +79,7 @@ abe2e3716b68727d4e59a16ef2eec994 *tests/testthat/helper_dummies.R
 5ce288fdef5a70787a160a5894a31f3e *tests/testthat/test_ecrshims.R
 891fc2378edb799f03a72cc6bfe2c569 *tests/testthat/test_filtermat.R
 1fca732e578a0d8c376b444c43610426 *tests/testthat/test_objective.R
-6883cf5f9b8575ce52ed3538e264cb47 *tests/testthat/test_operators.R
+c462e4b738b0f09f0d852e4d398da896 *tests/testthat/test_operators.R
 177c5f7c4413c8176317cf1e11bebfdd *tests/testthat/test_plotting.R
 b53344a3c89d4e03e32d4325cb3eab11 *tests/testthat/test_terminators.R
 39e076afbce21d90cc2a7cbd9ef14789 *tests/testthat/test_utils.R
