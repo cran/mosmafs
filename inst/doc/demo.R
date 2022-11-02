@@ -350,3 +350,5 @@ getStatistics(run.strat.20$log.newinds)
 ## ---- fig.width = 6, fig.height = 5-------------------------------------------
 plot_fronts(run.strat.20)
 
+## ---- include = FALSE---------------------------------------------------------
+parallelStop()

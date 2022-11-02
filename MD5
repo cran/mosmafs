@@ -1,7 +1,7 @@
-8378a1a2e8fce3f66cfda75935db9a05 *DESCRIPTION
+66554ab40de63e24be4a67c5fe8ce47e *DESCRIPTION
 2a01e9ead257d234f541e64b0a364094 *LICENSE
 a355c3a09b8e700b1cc311ec94037b57 *NAMESPACE
-5000f66f1d157062210e338fe95318a4 *NEWS
+8ce7940f9c82b46ed3b1a73015228831 *NEWS
 a0c16878c0a3b3115a71e3570465b581 *R/customnsga2.R
 39c9938b6dd8fbddb61b684f13f2a9c3 *R/datagen.R
 50ef1f4bc044b00ef735298f8f8a85d2 *R/ecrshims.R
@@ -14,13 +14,13 @@ d1a0ec7787d0aa2d955e47eb131b0f3e *R/filtermat.R
 15acb033005d3761e9afce00672043fb *R/terminators.R
 6d4cf0d46626652894fb3ad8a0435211 *R/utils.R
 cacf8048a935fb83068856e83d91decc *R/zzz.R
-9022a708a2baf1370a7ab1ecb0efd523 *README.md
+9566e93340237a453f5803db97143f2d *README.md
 0aadcdcf91dc92b4f037a117d4de6403 *build/vignette.rds
-b446905009bafaa11849ef4cdedb61f7 *inst/doc/demo.R
-aa06d0f5e6c32eda8a937f8e9328de47 *inst/doc/demo.Rmd
-586167669fe06cff78b6a6de9c9c1717 *inst/doc/demo.html
-f3369c026210e5bd020e91d5d5ca64ca *inst/doc/multifidelity.R
-69bf09e2b248c5a6de89fc2b450a13c9 *inst/doc/multifidelity.Rmd
+7b929c511038485e6e61186224fbaafc *inst/doc/demo.R
+37752a7593fbb7b0e0691da974147def *inst/doc/demo.Rmd
+0ffab401ea2ae3df5f20414c6ce06d6e *inst/doc/demo.html
+d9fc6b77d94b265eb9c576462a6823bc *inst/doc/multifidelity.R
+aae17574703a1e57ff0822e54d841176 *inst/doc/multifidelity.Rmd
 930c52000888cae705b052c14fbfe4ce *inst/doc/multifidelity.html
 729818f8a602e566c6b93a9b98b05ed5 *man/availableAttributes.Rd
 dcb65f9ee10a1717ac7755b2ef88718b *man/clonetask.Rd
@@ -83,5 +83,5 @@ c462e4b738b0f09f0d852e4d398da896 *tests/testthat/test_operators.R
 177c5f7c4413c8176317cf1e11bebfdd *tests/testthat/test_plotting.R
 b53344a3c89d4e03e32d4325cb3eab11 *tests/testthat/test_terminators.R
 39e076afbce21d90cc2a7cbd9ef14789 *tests/testthat/test_utils.R
-aa06d0f5e6c32eda8a937f8e9328de47 *vignettes/demo.Rmd
-69bf09e2b248c5a6de89fc2b450a13c9 *vignettes/multifidelity.Rmd
+37752a7593fbb7b0e0691da974147def *vignettes/demo.Rmd
+aae17574703a1e57ff0822e54d841176 *vignettes/multifidelity.Rmd
